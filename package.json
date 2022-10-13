@@ -1,4 +1,9 @@
 {
+  "name": "conversations-cleanup",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node cleanup.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.3",
     "minimist": "^1.2.7",

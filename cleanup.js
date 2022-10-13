@@ -22,7 +22,6 @@ const conversationCleanup = async (address) => {
     
 
 }
-console.log(args.address);
 conversationCleanup(args.address.toString());
 
 
