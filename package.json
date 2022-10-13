@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "minimist": "^1.2.7",
+    "twilio": "^3.82.2"
+  }
+}
